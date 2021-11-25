@@ -11,8 +11,6 @@
 <a href="https://instagram.com/anilfromdit"><img src="https://img.shields.io/badge/-@anilfromdit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
-![Anil's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anilfromdit&hide_border=true&theme=redical)
-
 
 ## Operating System & Tools
 
