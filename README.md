@@ -34,9 +34,13 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
 
  ## 📈 Stats
-
+ 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anilfromdit&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anilfromdit&hide_border=true" />
 </p>
+
+
+<a href="https://github.com/anilfromdit/github-readme-activity-graph"><img alt="Anil's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anilfromdit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
  
