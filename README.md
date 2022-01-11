@@ -8,7 +8,7 @@
 - 🌱  I'm on track for learning more about Artificial Intelligence.
 ## About Me
 
-- 🌱 I’m currently learning [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+- 🌱 I’m currently learning [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/anilfromdit/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
