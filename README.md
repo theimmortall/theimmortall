@@ -5,10 +5,10 @@
   <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20Full%20Stack%20Web%20Developer;An%20Android%20App%20Developer;Self-taught;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🌱  I'm on track for learning more about Artificial Intelligence.
+- 🌱  I'm on track for learning more about Full Stack Development.
 ## About Me
 
-- 🌱 I’m currently learning [![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)],[![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)],[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]
+- 🌱 I’m currently learning [![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)]
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/anilfromdit/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
