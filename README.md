@@ -2,13 +2,13 @@
 # Hi, I'm Anil Gulati ![](https://komarev.com/ghpvc/?username=anilfromdit&label=PROFILE+VIEWS)
 
 <p align="center">
-  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!!!;I%20am%20Full%20Stack%20Web%20Developer;An%20Android%20App%20Developer;Self-taught;1.5%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Anil%20Gulati;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer;SDE-1%20@%20Turnkey%20Tech%20Solutions;Self-taught;1%20year%20of%20professional%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
 </p>
 
 - 🌱  I'm on track for learning more about Full Stack Development.
 ## About Me
 
-- 🌱 I’m currently learning ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- 🌱 I’m currently learning ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/anilfromdit/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -35,12 +35,20 @@
 
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
 [![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]
 [![Socket.IO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)]
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]
 
 
+[![AWS](https://img.shields.io/badge/Amazon_AWS-99FFFF?style=for-the-badge&logo=amazonaws&logoColor=orange)]
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)]
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)]
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)]
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)]
