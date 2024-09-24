@@ -2,7 +2,7 @@
 # Hi, I'm Anil Gulati ![](https://komarev.com/ghpvc/?username=anilfromdit&label=PROFILE+VIEWS)
 
 <p align="center">
-  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Anil%20Gulati;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer;SDE-1%20@%20Onelab%20Ventures;Self-taught;1.5%20year%20of%20professional%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
+  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Anil%20Gulati;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer;Associate%20Software%20Engineer%20@%20YMSLI;Self-taught;2.5%20year%20of%20professional%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
 </p>
 
 - 🌱  I'm on track for learning more about Full Stack Development.
