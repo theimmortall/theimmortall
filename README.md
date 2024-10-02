@@ -8,7 +8,7 @@
 - 🌱  I'm on track for learning more about Full Stack Development.
 ## About Me
 
-- 🌱 I’m currently learning ![Springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot))
+- 🌱 I’m currently learning ![Springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/anilfromdit/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -65,5 +65,3 @@
 
 
 <img  width="40%" alt="My Top-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimmortall" />
-
-[![@anilfromdit's Holopin board](https://holopin.me/theimmortall)](https://holopin.io/@theimmortall)
