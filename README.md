@@ -1,8 +1,8 @@
 
-# Hi, I'm Divyam Singh ![](https://komarev.com/ghpvc/?username=theimortall&label=PROFILE+VIEWS)
+# Hi, I'm Divyam Singh ![](https://komarev.com/ghpvc/?username=theimmortall&label=PROFILE+VIEWS)
 
 <p align="center">
-  <a href="https://github.com/theimortall/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Divyam%20Singh;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
+  <a href="https://github.com/theimmortall/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Divyam%20Singh;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
 </p>
 
 - 🌱  I'm on track for learning more about Full Stack Development.
@@ -56,14 +56,14 @@
  ## 📈 Stats
  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theimortall&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theimortall&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theimmortall&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theimmortall&hide_border=true" />
 </p>
 
 
-<img alt="Divyam's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=theimortall&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Divyam's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=theimmortall&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
-<img  width="40%" alt="My Top-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimortall" />
+<img  width="40%" alt="My Top-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimmortall" />
 
-[![@anilfromdit's Holopin board](https://holopin.me/theimortall)](https://holopin.io/@theimortall)
+[![@anilfromdit's Holopin board](https://holopin.me/theimmortall)](https://holopin.io/@theimmortall)
