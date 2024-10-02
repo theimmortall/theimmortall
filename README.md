@@ -1,14 +1,14 @@
 
-# Hi, I'm Anil Gulati ![](https://komarev.com/ghpvc/?username=anilfromdit&label=PROFILE+VIEWS)
+# Hi, I'm Divyam Singh ![](https://komarev.com/ghpvc/?username=theimortall&label=PROFILE+VIEWS)
 
 <p align="center">
-  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Anil%20Gulati;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer;Associate%20Software%20Engineer%20@%20YMSLI;Self-taught;2.5%20year%20of%20professional%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
+  <a href="https://github.com/theimortall/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Divyam%20Singh;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
 </p>
 
 - 🌱  I'm on track for learning more about Full Stack Development.
 ## About Me
 
-- 🌱 I’m currently learning ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
+- 🌱 I’m currently learning ![Springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot))
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/anilfromdit/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -56,14 +56,14 @@
  ## 📈 Stats
  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anilfromdit&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anilfromdit&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theimortall&show_icons=true&hide_border=truel&count_private=true&show_icons=true&hide=,contribs&include_all_commits" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theimortall&hide_border=true" />
 </p>
 
 
-<img alt="Anil's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anilfromdit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Divyam's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=theimortall&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
-<img  width="40%" alt="My Top-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilfromdit" />
+<img  width="40%" alt="My Top-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimortall" />
 
-[![@anilfromdit's Holopin board](https://holopin.me/anilfromdit)](https://holopin.io/@anilfromdit)
+[![@anilfromdit's Holopin board](https://holopin.me/theimortall)](https://holopin.io/@theimortall)
